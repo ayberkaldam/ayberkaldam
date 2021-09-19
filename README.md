@@ -22,7 +22,7 @@ My name is Ayberk Aldam. I am a learner about Full Stack Development, living Ist
 # 🛠  Technologies And Tools
 
 ### Frontend Technologies
-
+<p>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
 &nbsp;
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
@@ -34,6 +34,7 @@ My name is Ayberk Aldam. I am a learner about Full Stack Development, living Ist
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
 &nbsp;
 <img style="margin : 10px" src="./icons/figma.png" alt="Figma" height="50" />
+  </p>
 <br>
 
 ### Backend Technologies
@@ -51,7 +52,6 @@ My name is Ayberk Aldam. I am a learner about Full Stack Development, living Ist
 
 
 
-<a name="learning-next"></a>
 
 <br>
 
