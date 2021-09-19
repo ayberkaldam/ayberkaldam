@@ -38,6 +38,7 @@ My name is Ayberk Aldam. I am a learner about Full Stack Development, living Ist
 <br>
 
 ### Backend Technologies
+<p>
 <img style="margin: 10px" src="./icons/nodejs.png" alt="Node.js" height="50" /> 
 &nbsp;
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /> 
@@ -49,9 +50,7 @@ My name is Ayberk Aldam. I am a learner about Full Stack Development, living Ist
 <img style="margin: 10px" src="./icons/mysql.png" alt="Mysql" height="50" />
 &nbsp;
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> 
-
-
-
+</p>
 
 <br>
 
