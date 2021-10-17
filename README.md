@@ -6,13 +6,13 @@ My name is Ayberk Aldam. I am a learner about Full Stack Development, living Ist
 
 - 📖 I’m currently studying in Istanbul University
 
-- 💡  I'm interested in Web Application Development and Mobile Application Development
+- 💡  I'm interested in Web Application Development and Game Development
 
 - 🔭 I' m working on some of my side projects
 
-- 🌱 I’m currently learning React , React Native & Node.js
+- 🌱 I’m currently learning React , C# , .Net
 
-- ❓ Ask me about anything related to MERN stack and related technologies
+- ❓ Ask me about anything related to React , .net  and related technologies
 
 - 💬 Talk to me about Video Games , Formula 1 , Swimming , Marine or anything that interests you.
 - ⚡ **Fun Fact:** I live to eat 🍔🍟
