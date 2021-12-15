@@ -37,11 +37,15 @@ My name is Ayberk Aldam. I am a learner about Full Stack Development, living Ist
 
 ### Backend Technologies
 <p>
+<img style="margin: 10px" src="./icons/c-sharp.png" alt="C-sharp" height="50" />
+&nbsp;
+<img style="margin: 10px" src="./icons/dotnet-core.png" alt="Dotnet-core" height="50" />
+&nbsp;
 <img style="margin: 10px" src="./icons/java.png" alt="Java" height="50" />
 &nbsp;
 <img style="margin: 10px" src="./icons/mysql.png" alt="Mysql" height="50" />
 &nbsp;
-  <img style="margin: 10px" src="./icons/sql-server.png" alt="Mysql" height="50" />
+  <img style="margin: 10px" src="./icons/sql-server.png" alt="Mssql" height="50" />
 &nbsp;
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> 
 </p>
