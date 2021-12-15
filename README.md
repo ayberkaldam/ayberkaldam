@@ -41,6 +41,8 @@ My name is Ayberk Aldam. I am a learner about Full Stack Development, living Ist
 &nbsp;
 <img style="margin: 10px" src="./icons/mysql.png" alt="Mysql" height="50" />
 &nbsp;
+  <img style="margin: 10px" src="./icons/sql-server.png" alt="Mysql" height="50" />
+&nbsp;
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> 
 </p>
 
