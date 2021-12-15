@@ -54,10 +54,6 @@ My name is Ayberk Aldam. I am a learner about Full Stack Development, living Ist
 &nbsp;
 [<img style="margin: 10px" src="./icons/github.png" alt="Github logo" title="Github" height="50" />](https://github.com/Bebuay)
 &nbsp;
-[<img style="margin: 10px" src="./icons/discord.png" alt="Discord logo" title="Discord" height="50" />](https://discordapp.com/users/364503793909628929)
-&nbsp;
-[<img style="margin: 10px" src="./icons/instagram.png" alt="instagram logo" title="Instagram" height="50" />](https://www.instagram.com/platypusdeveloper/)
-&nbsp;
 [<img style="margin: 10px" src="./icons/hackerrank.png" alt="hackerrank logo" title="HackerRank" height="50" />](https://www.hackerrank.com/ayberk_aldam)
 &nbsp;
 [<img style="margin: 10px" src="./icons/codepen.png" alt="codepen logo" title="Codepen" height="50" />](https://codepen.io/bebuay)
