@@ -47,17 +47,3 @@ My name is Ayberk Aldam. I am a learner about Full Stack Development, living Ist
 &nbsp;
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> 
 </p>
-
-<br>
-
-# 🔍  Connect With Me
-
-[<img style="margin: 10px" src="./icons/stackoverflow.png" alt="Stack Overflow logo" title="Stack Overflow" height="50" />](https://stackoverflow.com/users/14445317/bebuay)
-&nbsp;
-[<img  style="margin: 10px" src="./icons/linkedin.png" title="LinkedIn" height="50" />](https://www.linkedin.com/in/ayberk-aldam/)
-&nbsp;
-[<img style="margin: 10px" src="./icons/github.png" alt="Github logo" title="Github" height="50" />](https://github.com/Bebuay)
-&nbsp;
-[<img style="margin: 10px" src="./icons/hackerrank.png" alt="hackerrank logo" title="HackerRank" height="50" />](https://www.hackerrank.com/ayberk_aldam)
-&nbsp;
-[<img style="margin: 10px" src="./icons/codepen.png" alt="codepen logo" title="Codepen" height="50" />](https://codepen.io/bebuay)
