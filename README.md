@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/ayberkaaldam/image/" />
+<img src="image/quote-atatürk.jpg/" />
 
 <p align="center">
  
