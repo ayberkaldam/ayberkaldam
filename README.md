@@ -54,8 +54,8 @@
 <a href="https://leetcode.com/Iceberg0/">
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/Iceberg0/"/>
 </a>
-<a href="https://leetcode.com/Iceberg0/">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/Iceberg0/"/>
+<a href="https://stackoverflow.com/users/14445317/iceberg">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://stackoverflow.com/users/14445317/iceberg"/>
 </a>
 </p>
 
@@ -66,8 +66,7 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=ayberkaaldam&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ayberkaaldam&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=ayberkaaldam&theme=vue-dark&show_icons=true&hide_border=false&count_private=true">
 </p>
 
 <p align = "center">
