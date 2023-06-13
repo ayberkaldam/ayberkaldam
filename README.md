@@ -35,15 +35,15 @@
 <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <h2 align="center">Reach me out on</h2>
 
 <p align="center">
 <a href="mailto: ayberk.aldam@gmail.com">
- <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayberk.aldam@gmail.com"/>
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ayberk.aldam@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
  <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
