@@ -55,7 +55,7 @@
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/Iceberg0/"/>
 </a>
 <a href="https://stackoverflow.com/users/14445317/iceberg">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://stackoverflow.com/users/14445317/iceberg"/>
+<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/14445317/iceberg"/>
 </a>
 </p>
 
