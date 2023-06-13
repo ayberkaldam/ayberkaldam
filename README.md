@@ -43,13 +43,19 @@
 
 <p align="center">
 <a href="mailto: ayberk.aldam@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ayberk.aldam@gmail.com"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ayberk.aldam@gmail.com"/>
 </a>
-<a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
- <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
+<a href="https://www.linkedin.com/in/ayberkaldam/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ayberkaldam/"/>
 </a>
- <a href="https://twitter.com/ritikhere307">
- <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
+<a href="https://www.hackerrank.com/ayberk_aldam?hr_r=1">
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/ayberk_aldam?hr_r=1"/>
+</a>
+<a href="https://leetcode.com/Iceberg0/">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/Iceberg0/"/>
+</a>
+<a href="https://leetcode.com/Iceberg0/">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/Iceberg0/"/>
 </a>
 </p>
 
