@@ -5,10 +5,10 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/ayberkaaldam/ayberkaaldam"/> 
- <img src="https://badges.pufler.dev/years/ayberkaaldam"/>
- <img src="https://badges.pufler.dev/repos/ayberkaaldam"/>
- <img src="https://badges.pufler.dev/commits/monthly/ayberkaaldam" />
+ <img src="https://badges.pufler.dev/visits/ayberkaaldam/ayberkaldam"/> 
+ <img src="https://badges.pufler.dev/years/ayberkaldam"/>
+ <img src="https://badges.pufler.dev/repos/ayberkaldam"/>
+ <img src="https://badges.pufler.dev/commits/monthly/ayberkaldam" />
 
 </p>
 
